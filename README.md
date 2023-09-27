@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I’m an AI tech leader at Zhipu AI, where we have recently released ChatGLM App named [智谱清言](https://chatglm.cn/download?fr=cenyukuo). 
+- 🔭 I’m currently working on AI agents for social networks using graph neural networks (GNNs) and large language models (LLMs). 
+- 🌱 I obtained my bachelor's degree and Ph.D. in Computer Science at Tsinghua University in 2018 and 2023. 
+- 📫 How to reach me: cenyk1230@gmail.com
+
